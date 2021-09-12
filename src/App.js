@@ -8,6 +8,8 @@ import ChallengeDetail from './components/challengeDetail/ChallengeDetail'
 import Chat from './components/chat/Chat';
 import Session from './components/session/Session';
 
+import ChatScreen from './components/chat/ChatScreen';
+
 function App() {
   return (
     <Switch>
